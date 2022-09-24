@@ -1,5 +1,5 @@
 # Star Wars Repo
 
-![millennium.jpeg](millennium falcon)
+![millennium falcon](millennium.jpeg)
 
 este repositório serve de exemplo para o curso de git e github.
